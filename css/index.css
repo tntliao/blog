@@ -1,12 +1,11 @@
 * {
   user-select: none;
 }
-body,
-html {
+body {
+  overflow-x: hidden !important;
   font-family: '微软雅黑';
   font-weight: bold;
   height: 3000px;
-  overflow-x: hidden;
 }
 section {
   height: 3000px;
